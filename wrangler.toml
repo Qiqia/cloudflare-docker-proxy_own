@@ -19,7 +19,7 @@ routes = [
   { pattern = "k8s-gcr.xuanxindong.xyz", custom_domain = true },
   { pattern = "k8s.xuanxindong.xyz", custom_domain = true },
   { pattern = "ghcr.xuanxindong.xyz", custom_domain = true },
-  { pattern = "cloudsmithxuanxindong.xyz", custom_domain = true },
+  { pattern = "cloudsmith.xuanxindong.xyz", custom_domain = true },
 ]
 
 [env.production.vars]
